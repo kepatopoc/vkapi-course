@@ -2,7 +2,7 @@
 
 ## Как запустить скрипт
 
-**Кликните по картинке**, чтобы перейти на видео
+**Кликните по картинке**, чтобы перейти на видео https://www.youtube.com/watch?v=5ME-N2iOJe4 
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/5ME-N2iOJe4/0.jpg)](http://www.youtube.com/watch?v=5ME-N2iOJe4)
 
