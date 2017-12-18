@@ -16,5 +16,8 @@
 ![alt](https://api.monosnap.com/rpc/file/download?id=m2n56TkMUoMpqG71JGTqjdK8wmqwu5)
 7. Следовать инструкции в скрипте
 
+##Как изменить рабочую папку для Jupiter NoteBook
+Инструкция  - http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html#change-jupyter-notebook-startup-folder-windows
+
 ## Как построен курс
 Курс построен таким образом, что каждый новый урок знакомит вас с основными вещами языка программирования, паралелльно решая весьма практическую задачу, связанную с работой с ВКонтакте.
